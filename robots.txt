@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://juandelosriosm.github.io/sitemap.xml
+Sitemap: https://juandaviddelosriosmahecha.github.io/sitemap.xml
