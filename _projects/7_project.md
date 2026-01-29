@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 7
+title: Ising hpc phase transition
 description: with background image
-img: assets/img/4.jpg
+img: assets/img/ising_cover.png
 importance: 1
 category: work
 related_publications: true
