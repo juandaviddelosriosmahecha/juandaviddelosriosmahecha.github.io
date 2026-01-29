@@ -1,12 +1,13 @@
 ---
 layout: default
-permalink: /quantum_computing/
+permalink: /quantumcomputing/
 title: Quantum computing
-nav: false
+description: Una colección de posts dedicados a la computación cuántica. # Asegúrate de que esta línea exista y tenga el contenido deseado
+nav: false # Cambiado a 'true' si quieres que aparezca en la navegación principal
 nav_order: 1
 pagination:
   enabled: true
-  collection: posts
+  collection: quantumcomputing # Esto asume que tienes una colección llamada 'quantumcomputing'
   permalink: /page/:num/
   per_page: 5
   sort_field: date
@@ -18,47 +19,15 @@ pagination:
 
 <div class="post">
 
-{% assign blog_name_size = site.blog_name | size %}
-{% assign blog_description_size = site.blog_description | size %}
+{# Bloque de header-bar con el título de la página (no el global del sitio) #}
+<div class="header-bar">
+  <h1>{{ page.title }}</h1> {# Esto usará "Quantum computing" #}
+  <h2>{{ page.description | default: "Artículos y recursos sobre computación cuántica." }}</h2> {# Esto usará la descripción que definiste en el front matter #}
+</div>
 
+{# SE QUITA EL BLOQUE DE TAGS Y CATEGORIAS NUMERALES que estaba aquí #}
 
-{% if blog_name_size > 0 or blog_description_size > 0 %}
-
-  <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
-  </div>
-  {% endif %}
-
-
-{% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
-
-  <div class="tag-category-list">
-    <ul class="p-0 m-0">
-      {% for tag in site.display_tags %}
-        <li>
-          <i class="fa-solid fa-hashtag fa-sm"></i> <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}">{{ tag }}</a>
-        </li>
-        {% unless forloop.last %}
-          <p>&bull;</p>
-        {% endunless %}
-      {% endfor %}
-      {% if site.display_categories.size > 0 and site.display_tags.size > 0 %}
-        <p>&bull;</p>
-      {% endif %}
-      {% for category in site.display_categories %}
-        <li>
-          <i class="fa-solid fa-tag fa-sm"></i> <a href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}">{{ category }}</a>
-        </li>
-        {% unless forloop.last %}
-          <p>&bull;</p>
-        {% endunless %}
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
-
-{% assign featured_posts = site.posts | where: "featured", "true" %}
+{% assign featured_posts = site.quantumcomputing | where: "featured", "true" %} {# Cambiar site.posts a site.quantumcomputing #}
 {% if featured_posts.size > 0 %}
 <br>
 
@@ -87,7 +56,7 @@ pagination:
 
                     <p class="post-meta">
                       {{ read_time }} min read &nbsp; &middot; &nbsp;
-                      <a href="{{ year | prepend: '/blog/' | relative_url }}">
+                      <a href="{{ year | prepend: '/quantumcomputing/' | relative_url }}"> {# Cambiar /blog/ por /quantumcomputing/ #}
                         <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
                     </p>
                   </div>
@@ -108,7 +77,7 @@ pagination:
     {% if page.pagination.enabled %}
       {% assign postlist = paginator.posts %}
     {% else %}
-      {% assign postlist = site.posts %}
+      {% assign postlist = site.quantumcomputing %} {# Cambiar site.posts a site.quantumcomputing #}
     {% endif %}
 
     {% for post in postlist %}
@@ -150,13 +119,13 @@ pagination:
         {% endif %}
       </p>
       <p class="post-tags">
-        <a href="{{ year | prepend: '/blog/' | relative_url }}">
+        <a href="{{ year | prepend: '/quantumcomputing/' | relative_url }}"> {# Cambiar /blog/ por /quantumcomputing/ #}
           <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
 
           {% if tags != "" %}
           &nbsp; &middot; &nbsp;
             {% for tag in post.tags %}
-            <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}">
+            <a href="{{ tag | slugify | prepend: '/quantumcomputing/tag/' | relative_url }}"> {# Cambiar /blog/ por /quantumcomputing/ #}
               <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
               {% unless forloop.last %}
                 &nbsp;
@@ -167,7 +136,7 @@ pagination:
           {% if categories != "" %}
           &nbsp; &middot; &nbsp;
             {% for category in post.categories %}
-            <a href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}">
+            <a href="{{ category | slugify | prepend: '/quantumcomputing/category/' | relative_url }}"> {# Cambiar /blog/ por /quantumcomputing/ #}
               <i class="fa-solid fa-tag fa-sm"></i> {{ category }}</a>
               {% unless forloop.last %}
                 &nbsp;
@@ -196,3 +165,5 @@ pagination:
 {% endif %}
 
 </div>
+
+

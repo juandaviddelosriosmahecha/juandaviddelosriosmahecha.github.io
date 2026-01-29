@@ -6,7 +6,7 @@ nav_order: 8
 dropdown: true
 children:
   - title: Quantum computing
-    permalink: /quantum_computing/
+    permalink: /quantumcomputing/
   - title: divider
   - title: Biophysics
     permalink: /biophysics/
