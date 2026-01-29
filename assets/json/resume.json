@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Juan David de los Rios Mahecha",
+    "label": "Physics student",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "juandelosriosquantum@gmail.com",
+    "phone": "",
+    "summary": "Physics student focused on computational and data-driven approaches to complex systems. Experienced in scientific programming, machine learning, and numerical modeling using Python and C++. Interested in statistical mechanics, biophysics, and quantum computing, and actively seeking opportunities to apply computational methods in research and industry.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Bogota",
+      "countryCode": "CO",
+      "region": "Colombia"
     },
     "profiles": []
   },
