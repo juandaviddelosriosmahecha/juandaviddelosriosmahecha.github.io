@@ -34,25 +34,7 @@ cv:
         courses: ""
         highlights:
 
-      - institution: Universidad Nacional Autónoma de México (UNAM)
-        location: Online
-        area: Quantum Computing
-        studyType: Fourth Quantum Computing School
-        start_date: 2025-08
-        end_date: 2025-08
-        highlights:
-          - Participation in advanced training activities in quantum computing.
-          - Study of quantum algorithms and computational methods.
-          
-      - institution: Université du Québec à Trois-Rivières
-        location: Bogota, Colombia
-        area: Quantum Artificial Intelligence
-        studyType: Summer School on Quantum Artificial Intelligence
-        start_date: 2025-07
-        end_date: 2025-07
-        highlights:
-          - Exposure to interdisciplinary research in quantum computing and AI.
-
+      
       - institution: Universidad Distrital Francisco José de Caldas
         location: Bogota, Colombia
         area: Quantum Computing
@@ -62,6 +44,130 @@ cv:
         highlights:
           - Training in foundations and applications of quantum computing.
           - Practical experience with quantum programming tools and simulations.
+          
+    schools:
+      - institution: IBM
+        location: Online
+        area: Quantum Computing
+        studyType: Qiskit Global Summer School 2025 – Quantum Excellencel
+        start_date: 2025-08
+        end_date: 2025-08
+        highlights:
+          - Participation in advanced training activities in quantum computing.
+          - Study of quantum algorithms and computational methods. 
+
+    
+      - institution: Université du Québec à Trois-Rivières
+        location: Bogota, Colombia
+        area: Quantum Artificial Intelligence
+        studyType: Summer School on Quantum Artificial Intelligence
+        start_date: 2025-07
+        end_date: 2025-07
+        highlights:
+          - Exposure to interdisciplinary research in quantum computing and AI.  
+
+      - institution: Universidad Nacional Autónoma de México (UNAM)
+        location: Online
+        area: Quantum Computing
+        studyType: Fourth Quantum Computing School
+        start_date: 2025-08
+        end_date: 2025-08
+        highlights:
+          - Participation in advanced training activities in quantum computing.
+          - Study of quantum algorithms and computational methods.               
+
+    Professional Certificates & Specialization:
+      - name:  IBM AI Developer Professional Certificate
+        date: 2025-12
+        issuer: IBM       
+        url: https://www.credly.com/badges/df761bea-2dfb-4df0-b7c5-5bb91965be33/linked_in_profile
+      - name:  Generative AI for Software Developers Specialization
+        date: 2026-01
+        issuer: IBM       
+        url: https://www.credly.com/badges/0597d143-ef01-4e3b-8d6f-084ae1561a3c/linked_in_profile 
+
+    Individual Courses & Skill Development:
+      - name:  Basics of Quantum Information
+        date: 2025-08
+        issuer: IBM        
+        url: https://www.credly.com/badges/c335408d-1e65-46e8-8582-38fd1ea67cdf/linked_in_profile
+
+      - name:  Foundations of Data Science
+        date: 2025-12
+        issuer: Google       
+        url: https://www.coursera.org/account/accomplishments/records/4O1EQYCZSGV
+
+      - name:  Generative AI for Software Developers Specialization
+        date: 2026-01
+        issuer: IBM      
+        url: https://www.credly.com/badges/0597d143-ef01-4e3b-8d6f-084ae1561a3c/linked_in_profile
+
+      - name: Introduction to Artificial Intelligence (AI)
+        date: 2025-12
+        issuer: IBM      
+        url: https://coursera.org/share/d728894bd34732d5982019c006e6ad11
+
+      - name: Software Developer Career Guide and Interview Preparation
+        date: 2025-12
+        issuer: IBM      
+        url: https://coursera.org/share/00c8082707e419d464a417d2020fc91d
+
+      - name: Scientific Computing with Python
+        date: 2025-02
+        issuer: freeCodeCamp      
+        url: https://freecodecamp.org/certification/fcc0c0b5b69-48f3-4134-8e52-eb8a7e03b678/scientific-computing-with-python-v7
+        
+      - name: Nonlinear Dynamics Mathematical and Computational Approaches
+        date: 2025-02
+        issuer: Santa Fe Institute        
+        url: https://www.linkedin.com/in/juan-david-de-los-rios-mahecha-60a427347/details/certifications
+ 
+      - name:  Finding Hidden Messages in DNA
+        date: 2025-07
+        issuer: University of California San Diego       
+        url: https://www.coursera.org/account/accomplishments/verify/N287JZQ4U4Z6ns
+
+      - name:  Python for Data Science and AI
+        date: 2025-07
+        issuer: IBM       
+        url: https://www.credly.com/earner/earned/badge/2df45f21-0557-4a61-85bf-4da1d337da7c 
+
+      - name:  Python Project for AI and Application Development
+        date: 2025-07
+        issuer: IBM       
+        url: https://www.credly.com/earner/earned/badge/42b822e6-7160-4fcc-b808-bf7acc28f8fc 
+
+      - name:  Generative AI, Prompt Engineering
+        date: 2025-06
+        issuer: IBM       
+        url: https://www.credly.com/earner/earned/badge/18ebda55-b50b-44f3-90b6-ec66037e0fec 
+
+      - name:  Generative AI Essentials
+        date: 2025-06
+        issuer: IBM       
+        url: https://www.credly.com/earner/earned/badge/59e241d3-a404-4f4e-8164-53d827bb019f 
+
+      - name: Artificial Intelligence Essentials V2
+        date: 2025-06
+        issuer: IBM       
+        url: https://www.credly.com/earner/earned/badge/4f1347ca-4ee1-46e0-b5ca-13f9eb5f5ce1 
+        
+      - name:  Introduction to HTML, CSS, & JavaScript
+        date: 2025-06
+        issuer: IBM       
+        url: https://www.credly.com/earner/earned/badge/9abed2f6-6c0d-49fc-9d98-59abc1418398 
+            
+      - name:  Software Engineering Essentials
+        date: 2025-05
+        issuer: IBM       
+        url: https://www.credly.com/earner/earned/badge/55c0646a-0f49-482a-9422-25d4b9f7cc51 
+        
+      - name:  Elements of AI
+        date: 2023-07
+        issuer: University of Helsinki     
+        url: https://certificates.mooc.fi/validate/nl9h8qt8ob               
+ 
+          
     Experience:
       - company: SciTI
         position: Founder & CEO
@@ -113,51 +219,6 @@ cv:
       - name: English
         summary: "Intermediate"
 
-    Certificates:
-      - name: Qiskit Global Summer School 2025 – Quantum Excellence
-        date: 2025-08
-        issuer: IBM   
-        url: https://www.credly.com/badges/3f48fbe1-6efb-4371-9577-e5b76d0199e6/linked_in_profile
 
-      - name:  Basics of Quantum Information
-        date: 2025-08
-        issuer: IBM        
-        url: https://www.credly.com/badges/c335408d-1e65-46e8-8582-38fd1ea67cdf/linked_in_profile
-
-      - name:  IBM AI Developer Professional Certificate
-        date: 2025-12
-        issuer: IBM       
-        url: https://www.credly.com/badges/df761bea-2dfb-4df0-b7c5-5bb91965be33/linked_in_profile
-
-      - name:  Foundations of Data Science
-        date: 2025-12
-        issuer: Google       
-        url: https://www.coursera.org/account/accomplishments/records/4O1EQYCZSGV
-
-      - name:  Generative AI for Software Developers Specialization
-        date: 2026-01
-        issuer: Google      
-        url: https://www.credly.com/badges/0597d143-ef01-4e3b-8d6f-084ae1561a3c/linked_in_profile
-
-      - name: Scientific Computing with Python
-        date: 2025-02
-        issuer: freeCodeCamp      
-        url: https://freecodecamp.org/certification/fcc0c0b5b69-48f3-4134-8e52-eb8a7e03b678/scientific-computing-with-python-v7
-        
-      - name: Nonlinear Dynamics Mathematical and Computational Approaches
-        date: 2025-02
-        issuer: Santa Fe Institute        
-        url: https://www.linkedin.com/in/juan-david-de-los-rios-mahecha-60a427347/details/certifications
- 
-      - name:  Finding Hidden Messages in DNA
-        date: 2025-07
-        issuer: University of California San Diego       
-        url: https://www.coursera.org/account/accomplishments/verify/N287JZQ4U4Z6ns    
-        
-      - name:  Elements of AI
-        date: 2023-07
-        issuer: University of Helsinki     
-        url: https://certificates.mooc.fi/validate/nl9h8qt8ob   
-                
 
 
