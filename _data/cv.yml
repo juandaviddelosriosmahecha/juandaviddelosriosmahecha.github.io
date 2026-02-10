@@ -45,7 +45,7 @@ cv:
           - Training in foundations and applications of quantum computing.
           - Practical experience with quantum programming tools and simulations.
           
-    schools:
+    Schools:
       - institution: IBM
         location: Online
         area: Quantum Computing
@@ -74,7 +74,17 @@ cv:
         end_date: 2025-08
         highlights:
           - Participation in advanced training activities in quantum computing.
-          - Study of quantum algorithms and computational methods.               
+          - Study of quantum algorithms and computational methods.  
+          
+      - institution: Universidad Distrital Francisco José de Caldas
+        location: Bogotá, Colombia
+        area: High Performance Computing (HPC) & Quantum Computing
+        studyType: 8th High Performance Computing (HPC) 2025 – Summer School
+        start_date: 2025
+        end_date: 2025
+        highlights:
+          - Participation in an intensive summer school on high-performance computing.
+          - Hands-on experience with HPC environments and quantum computing platforms.                       
 
     Professional Certificates & Specialization:
       - name:  IBM AI Developer Professional Certificate
@@ -205,7 +215,86 @@ cv:
           - "Promote quantum computing education and community engagement through Qiskit."
           - "Support learning and collaboration in quantum computing research and development."
 
-   
+    Events:
+
+      - institution: Universidad Autónoma de Madrid (UAM)
+        location:  Global Community
+        area: Qiskit Fall Fest 2025
+        studyType: Introduction to quantum information
+        start_date: 2025-10
+        end_date: 2025-11
+        highlights:
+          - Invited talk, Introduction to quantum information
+    
+      - institution: Universidad Distrital Francisco José de Caldas
+        location:  Bogota, Colombia
+        area: Second Science Week
+        studyType: Dynamics of an amyloid β in the essential subspace, Obtaining from the analysis of its main components
+        start_date: 2024-10
+        end_date: 2024-10
+        highlights:
+          - Participation in poster mode.
+
+      - institution: Universidad Distrital Francisco José de Caldas
+        location:  Bogota, Colombia
+        area: First Science Week
+        studyType: Theoretical-Experimental Study of a System of Two Coupled Oscillators
+        start_date: 2023-11
+        end_date: 2023-11
+        highlights:
+          - Participation in poster mode. 
+ 
+      - institution: Universidad Distrital Francisco José de Caldas
+        location:  Bogota, Colombia
+        area: First Science Week
+        studyType: Application of Machine Learning to a System of Two Coupled Oscillators, Predictions of the Movement.
+        start_date: 2023-11
+        end_date: 2023-11
+        highlights:
+          - Participation in poster mode.  
+ 
+    Repositories:
+
+      - institution: 
+        location:  Github
+        area: 
+        studyType: quantum algorithms explained
+        start_date: 2026-10
+        end_date: 
+        highlights:
+
+      - institution: 
+        location:  Github
+        area: 
+        studyType: qgss 2025 LAB SOLUTIONS
+        start_date: 2025-10
+        end_date: 2025-11
+        highlights:
+
+      - institution: 
+        location:  Github
+        area: 
+        studyType: Gray scott reaction diffusion hpc
+        start_date: 2025-10
+        end_date: 2025-11
+        highlights:
+
+      - institution: 
+        location:  Github
+        area: 
+        studyType: Ising hpc phase transition
+        start_date: 2025-10
+        end_date: 2025-11
+        highlights:
+ 
+      - institution: 
+        location:  Github
+        area: 
+        studyType: Neural Network Fitting Damped Oscillator Analysis
+        start_date: 2025-10
+        end_date: 2025-11
+        highlights:
+          
     Skills:
       - name: Physics
         level: BSc 
