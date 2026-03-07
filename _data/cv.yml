@@ -1,14 +1,13 @@
 cv:
   name: Juan David de los Rios Mahecha
-  label: Physics student
+  label: Physics Undergraduate
   email: juandelosriosquantum@gmail.com
-  location: Bogota, CO
+  location: Bogotá, Colombia
   image: ""
-  summary: Physics student focused on computational and data-driven approaches to complex systems. Experienced in scientific programming, machine learning, and numerical modeling using Python and C++. Interested in statistical mechanics, biophysics, and quantum computing, and actively seeking opportunities to apply computational methods in research and industry.
-
+  summary: Physics student at Universidad Distrital Francisco José de Caldas with a focus on computational approaches to complex systems, quantum computing, and data-driven modeling. Experienced in scientific programming, machine learning, and numerical simulation using Python and C++. Actively involved in research initiatives in quantum algorithms, statistical mechanics, and biophysical modeling.
   social_networks:
-    - network: X
-      username: AlbertEinstein
+    - network: Github
+      username: juandaviddelosriosmahecha
     - network: GitHub
       username: example
     - network: LinkedIn
@@ -27,34 +26,24 @@ cv:
         location: Bogotá, Colombia
         url: https://www.udistrital.edu.co/inicio
         area: Physics
-        studyType: BSc in Physics (ongoing)
+        studyType: BSc in Physics
         start_date: 2020
         end_date: 2026
-        score: ""
-        courses: ""
+        score: "3.8 / 5.0"
+        courses: Relevant Coursework - "Quantum Mechanics, Statistical Mechanics, Mathematical Methods for Physics, Solid State Physics, Computational Physics, Computational Modeling of Physical Systems, Distributed Systems, Data Mining, Computational Simulation of Biosystems"
         highlights:
-
-      
-      - institution: Universidad Distrital Francisco José de Caldas
-        location: Bogota, Colombia
-        area: Quantum Computing
-        studyType: Diplomado en computación cuántica
-        start_date: 2025-05
-        end_date: 2025-06
-        highlights:
-          - Training in foundations and applications of quantum computing.
-          - Practical experience with quantum programming tools and simulations.
-          
+          - Research focus on quantum computing, quantum algorithms, and simulation of physical systems on quantum hardware.
+          - Quantum Computing Line Leader in the SPSUMM research group.
+                          
     Schools:
       - institution: IBM
         location: Online
         area: Quantum Computing
-        studyType: Qiskit Global Summer School 2025 – Quantum Excellencel
+        studyType: Qiskit Global Summer School 2025 – Quantum Excellence
         start_date: 2025-08
         end_date: 2025-08
         highlights:
-          - Participation in advanced training activities in quantum computing.
-          - Study of quantum algorithms and computational methods. 
+
 
     
       - institution: Université du Québec à Trois-Rivières
@@ -64,7 +53,6 @@ cv:
         start_date: 2025-07
         end_date: 2025-07
         highlights:
-          - Exposure to interdisciplinary research in quantum computing and AI.  
 
       - institution: Universidad Nacional Autónoma de México (UNAM)
         location: Online
@@ -73,8 +61,7 @@ cv:
         start_date: 2025-08
         end_date: 2025-08
         highlights:
-          - Participation in advanced training activities in quantum computing.
-          - Study of quantum algorithms and computational methods.  
+
           
       - institution: Universidad Distrital Francisco José de Caldas
         location: Bogotá, Colombia
@@ -83,44 +70,30 @@ cv:
         start_date: 2025
         end_date: 2025
         highlights:
-          - Participation in an intensive summer school on high-performance computing.
-          - Hands-on experience with HPC environments and quantum computing platforms.                       
+  
 
     Professional Certificates & Specialization:
       - name:  IBM AI Developer Professional Certificate
         date: 2025-12
         issuer: IBM       
         url: https://www.credly.com/badges/df761bea-2dfb-4df0-b7c5-5bb91965be33/linked_in_profile
+        highlights:
+          - Invited talk, Introduction to quantum information
+        
       - name:  Generative AI for Software Developers Specialization
         date: 2026-01
         issuer: IBM       
         url: https://www.credly.com/badges/0597d143-ef01-4e3b-8d6f-084ae1561a3c/linked_in_profile 
+      - name: Diploma in Quantum Computing
+        date: 2025-06
+        issuer: Universidad Distrital Francisco José de Caldas
+        url: https://udistrital.edu.co        
 
     Individual Courses & Skill Development:
       - name:  Basics of Quantum Information
         date: 2025-08
         issuer: IBM        
         url: https://www.credly.com/badges/c335408d-1e65-46e8-8582-38fd1ea67cdf/linked_in_profile
-
-      - name:  Foundations of Data Science
-        date: 2025-12
-        issuer: Google       
-        url: https://www.coursera.org/account/accomplishments/records/4O1EQYCZSGV
-
-      - name:  Generative AI for Software Developers Specialization
-        date: 2026-01
-        issuer: IBM      
-        url: https://www.credly.com/badges/0597d143-ef01-4e3b-8d6f-084ae1561a3c/linked_in_profile
-
-      - name: Introduction to Artificial Intelligence (AI)
-        date: 2025-12
-        issuer: IBM      
-        url: https://coursera.org/share/d728894bd34732d5982019c006e6ad11
-
-      - name: Software Developer Career Guide and Interview Preparation
-        date: 2025-12
-        issuer: IBM      
-        url: https://coursera.org/share/00c8082707e419d464a417d2020fc91d
 
       - name: Scientific Computing with Python
         date: 2025-02
@@ -132,74 +105,17 @@ cv:
         issuer: Santa Fe Institute        
         url: https://www.linkedin.com/in/juan-david-de-los-rios-mahecha-60a427347/details/certifications
  
-      - name:  Finding Hidden Messages in DNA
-        date: 2025-07
-        issuer: University of California San Diego       
-        url: https://www.coursera.org/account/accomplishments/verify/N287JZQ4U4Z6ns
-
-      - name:  Python for Data Science and AI
-        date: 2025-07
-        issuer: IBM       
-        url: https://www.credly.com/earner/earned/badge/2df45f21-0557-4a61-85bf-4da1d337da7c 
-
-      - name:  Python Project for AI and Application Development
-        date: 2025-07
-        issuer: IBM       
-        url: https://www.credly.com/earner/earned/badge/42b822e6-7160-4fcc-b808-bf7acc28f8fc 
-
-      - name:  Generative AI, Prompt Engineering
-        date: 2025-06
-        issuer: IBM       
-        url: https://www.credly.com/earner/earned/badge/18ebda55-b50b-44f3-90b6-ec66037e0fec 
-
-      - name:  Generative AI Essentials
-        date: 2025-06
-        issuer: IBM       
-        url: https://www.credly.com/earner/earned/badge/59e241d3-a404-4f4e-8164-53d827bb019f 
-
-      - name: Artificial Intelligence Essentials V2
-        date: 2025-06
-        issuer: IBM       
-        url: https://www.credly.com/earner/earned/badge/4f1347ca-4ee1-46e0-b5ca-13f9eb5f5ce1 
-        
-      - name:  Introduction to HTML, CSS, & JavaScript
-        date: 2025-06
-        issuer: IBM       
-        url: https://www.credly.com/earner/earned/badge/9abed2f6-6c0d-49fc-9d98-59abc1418398 
-            
-      - name:  Software Engineering Essentials
-        date: 2025-05
-        issuer: IBM       
-        url: https://www.credly.com/earner/earned/badge/55c0646a-0f49-482a-9422-25d4b9f7cc51 
-        
-      - name:  Elements of AI
-        date: 2023-07
-        issuer: University of Helsinki     
-        url: https://certificates.mooc.fi/validate/nl9h8qt8ob               
- 
           
     Experience:
-      - company: SciTI
-        position: Founder & CEO
-        location: Bogotá, Colombia
-        start_date: 2025
-        end_date: Present
-        summary: Founded SciTI, a platform that promotes collaboration in science and technology by connecting students, researchers, professionals, and industry partners to develop projects, share knowledge, and bridge the gap between academia and industry..
-        highlights:
-          - Creation of a platform to connect students, researchers, and industry collaborators.
-          - Promotion of collaborative projects in science and technology..
-          - Development of initiatives for knowledge sharing and interdisciplinary collaboration.
-          - Building a community focused on scientific and technological innovation.
-
-
-      - company: Research Group SiPhyS – Universidad Distrital Francisco José de Caldas
+      - company: Research Group SPSUMM – Universidad Distrital Francisco José de Caldas
         position: Quantum Computing Line Leader
         location: Bogotá, Colombia
         start_date: 2025
         end_date: Present
+        url: https://siciud.udistrital.edu.co/PSemilleros/Ver/559
         highlights:
-          - Lead the quantum computing research line within the SiPhyS research group.
-          - Coordinate student projects and collaborative activities in quantum computing..
+          - Lead the quantum computing research line within the SPSUMM research group.
+          - Coordinate student projects and collaborative activities in quantum computing.
           - Support the development and study of quantum algorithms and simulations using Qiskit.
           - Promote training and knowledge sharing in quantum computing within the research group.
 
@@ -210,10 +126,10 @@ cv:
         location: Global Community
         start_date: 2025-09
         end_date: Present
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+        summary: Selected member of IBM’s Qiskit Advocates Program, a global community of quantum computing leaders who promote education, open-source collaboration, and the adoption of quantum technologies.
         highlights:
-          - "Promote quantum computing education and community engagement through Qiskit."
-          - "Support learning and collaboration in quantum computing research and development."
+          - "Facilitate knowledge exchange and collaboration around quantum algorithms, simulation, and quantum programming."
+          - "Engage with the international community of quantum developers and educators to expand access to quantum technologies."
 
     Events:
 
@@ -233,7 +149,7 @@ cv:
         start_date: 2024-10
         end_date: 2024-10
         highlights:
-          - Participation in poster mode.
+          - Poster presentation.
 
       - institution: Universidad Distrital Francisco José de Caldas
         location:  Bogota, Colombia
@@ -242,7 +158,7 @@ cv:
         start_date: 2023-11
         end_date: 2023-11
         highlights:
-          - Participation in poster mode. 
+          - Poster presentation. 
  
       - institution: Universidad Distrital Francisco José de Caldas
         location:  Bogota, Colombia
@@ -251,17 +167,9 @@ cv:
         start_date: 2023-11
         end_date: 2023-11
         highlights:
-          - Participation in poster mode.  
+          - Poster presentation.  
  
     Repositories:
-
-      - institution: 
-        location:  Github
-        area: 
-        studyType: quantum algorithms explained
-        start_date: 2026-10
-        end_date: 
-        highlights:
 
       - institution: 
         location:  Github
@@ -269,7 +177,10 @@ cv:
         studyType: qgss 2025 LAB SOLUTIONS
         start_date: 2025-10
         end_date: 2025-11
+        url: https://github.com/juandaviddelosriosmahecha/qgss-2025-LAB_SOLUTIONS
         highlights:
+          - Solutions developed for the Qiskit Global Summer School 2025 (QGSS 2025) laboratories. Includes five Jupyter notebooks covering fundamental topics in quantum computing, quantum circuit implementation, quantum algorithms, and practical applications using IBM’s Qiskit framework. 
+        
 
       - institution: 
         location:  Github
@@ -277,7 +188,10 @@ cv:
         studyType: Gray scott reaction diffusion hpc
         start_date: 2025-10
         end_date: 2025-11
+        url: https://github.com/juandaviddelosriosmahecha/gray-scott-reaction-diffusion-hpc
         highlights:
+          - Gray-Scott Reaction–Diffusion HPC Simulator is a computational simulation project developed in C++ that implements reaction–diffusion models based on the Gray–Scott equations. The project is designed to model complex, self-organizing patterns that emerge in dynamical systems, using high-performance computing (HPC) techniques to optimize execution. The implementation includes CUDA acceleration, enabling the use of GPU computing power to efficiently simulate large-scale systems. The codebase is modularly structured and includes Bash automation scripts for running experiments and organizing simulation results.
+        
 
       - institution: 
         location:  Github
@@ -285,7 +199,9 @@ cv:
         studyType: Ising hpc phase transition
         start_date: 2025-10
         end_date: 2025-11
+        url: https://github.com/juandaviddelosriosmahecha/ising-hpc-phase-transition
         highlights:
+          - I developed a computational project focused on the simulation of the Ising Model using high-performance computing (HPC) to investigate phase transitions. This repository contains the implementation of optimized algorithms to simulate magnetic behavior at the computational level, applying parallelization techniques and distributed processing to analyze critical phenomena in physical systems.
  
       - institution: 
         location:  Github
@@ -293,14 +209,37 @@ cv:
         studyType: Neural Network Fitting Damped Oscillator Analysis
         start_date: 2025-10
         end_date: 2025-11
+        url: https://github.com/juandaviddelosriosmahecha/NeuralNetwork-Fitting-Damped-Oscillator-Analysis
         highlights:
+          - Development of a quantitative analysis project that integrates neural networks with numerical methods to model and fit the behavior of damped oscillators. The project combines machine learning techniques with differential equations, enabling the training of neural network models to capture the complex dynamics of oscillatory systems under damping.
+ 
           
     Skills:
-      - name: Physics
-        level: BSc 
-        icon: fa-solid fa-atom
-        keywords: "Quantum Mechanics, Statistical Mechanics, Computational Physics, Quantum Computing, Biophysics"
+      - name: Programming
+        level: Advanced 
+        icon: fa-solid fa-code
+        keywords: "Python, C++, Bash, Qiskit"
 
+      - name: Scientific Computing
+        level: Advanced 
+        icon: fa-solid fa-microchip
+        keywords: "High Performance Computing (HPC), Numerical Simulation, Monte Carlo Methods, CUDA, Data Analysis"
+        
+      - name: Machine Learning
+        level: Intermediate
+        icon: fa-solid fa-brain
+        keywords: "Neural Networks, Regression Models, Scientific Machine Learning, Data-Driven Modeling"      
+ 
+      - name: Quantum Computing
+        level: Intermediate
+        icon: fa-solid fa-microchip
+        keywords: "Quantum Algorithms, Quantum Circuits, Quantum Simulation, Qiskit"
+      
+      - name: Physics
+        level: BSc
+        icon: fa-solid fa-microchip
+        keywords: "Quantum Mechanics, Statistical Mechanics, Computational Physics"
+       
     Languages:
       - name: Spanish
         summary: "Native speaker"
