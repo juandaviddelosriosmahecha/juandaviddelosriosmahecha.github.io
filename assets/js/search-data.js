@@ -107,9 +107,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-quantum-computing-talk-series",
-          title: 'Quantum Computing Talk Series',
-          description: "Ongoing series of talks aimed at introducing quantum computing concepts to physics students and the broader academic community. Combines theoretical foundations with practical implementations using Qiskit.",
+          section: "News",},{id: "projects-chsh-inequality",
+          title: 'CHSH inequality',
+          description: "The CHSH inequality is a quantum mechanical test that measures correlations between entangled particles. In the CHSH Game, two players attempt to coordinate their responses without communicating, demonstrating how quantum strategies overcome classical limitations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "quantumcomputing-first-post-in-quantum-computing",
