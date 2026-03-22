@@ -304,3 +304,5 @@ The factor of 2 arises from the half-angle convention in the Bloch sphere parame
 {% endif %}
 {:/nomarkdown}
 
+{% cite delosrios_chsh_2026 %}
+
